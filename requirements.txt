@@ -1,9 +1,7 @@
 pandas
 matplotlib
 networkx
-
 pyproj
-geopy.distance
 seaborn
 plotly
 cufflinks
