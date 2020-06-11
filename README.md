@@ -6,5 +6,5 @@ We provide a working example of the code used to implement a multi-criteria netw
 Files: 
 1) python notebook with executable code 
 2) Amsterdam coarse-grained network at postal code zones 
-3) csv file with long. lat. coordinated of all nodes included in flie (2) 
+3) csv file with long. lat. coordinates of all nodes included in flie (2) 
 
