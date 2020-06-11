@@ -1,3 +1,9 @@
 pandas
 matplotlib
 networkx
+from sortedcontainers import SortedDict
+pyproj
+geopy.distance
+seaborn
+plotly
+cufflinks
