@@ -1,7 +1,7 @@
 pandas
 matplotlib
 networkx
-SortedDict
+
 pyproj
 geopy.distance
 seaborn
