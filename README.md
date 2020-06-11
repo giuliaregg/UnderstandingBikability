@@ -8,3 +8,5 @@ Files:
 2) Amsterdam coarse-grained network at postal code zones 
 3) csv file with long. lat. coordinates of all nodes included in flie (2) 
 
+here is a link to mybinder (not all packages are available for now- needs to b eupdated)
+https://mybinder.org/v2/gh/giuliaregg/UnderstandingBikability/master
