@@ -9,7 +9,7 @@ Files:
 3) csv file with long. lat. coordinates of all nodes included in flie (2) 
 4) requirements.txt needed for running the notebook on MyBinder
 
-The repository can be run with MyBinder under the following URL's:
+The repository can be run with MyBinder under the following URL:
 https://mybinder.org/v2/gh/giuliaregg/UnderstandingBikability/e79aab5f1669a7548293f4312dafe4499223f406 
 
 
