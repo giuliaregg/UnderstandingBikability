@@ -3,7 +3,7 @@ sortedcontainers
 pandas
 matplotlib
 networkx
-pyproj
+pyproj 2.2.0
 seaborn
 plotly
 cufflinks
