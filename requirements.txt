@@ -6,3 +6,5 @@ seaborn
 plotly
 cufflinks
 geopandas
+geopy
+sortedcontainers
