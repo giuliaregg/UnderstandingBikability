@@ -1,3 +1,5 @@
+geopy
+sortedcontainers
 pandas
 matplotlib
 networkx
@@ -6,5 +8,4 @@ seaborn
 plotly
 cufflinks
 geopandas
-geopy
-sortedcontainers
+
