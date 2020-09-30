@@ -1,4 +1,4 @@
-# UnderstandingBikability
+# UnderstandingBikeability
 Code to compute, visualise and analyse bikeability curves of an urban network
 
 We provide a working example of the code used to implement a multi-criteria network assessment methodology of urban bicycle networks. This code is the implementation of the methodology described in the article (under review): 'Understanding Bikeability: a methodology to assess urban networks' Authors: Giulia Reggiani, Tim van Oijen, Homayoun Hamedmoghadam, Winnie Daamen, Hai Lee Vu, and Serge Hoogendoorn. 
